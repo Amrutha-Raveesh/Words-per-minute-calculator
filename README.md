@@ -1,1 +1,2 @@
-# Words-per-minute-calculator
+click this link:
+https://amrutha-raveesh.github.io/Words-per-minute-calculator/
